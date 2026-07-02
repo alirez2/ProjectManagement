@@ -16,13 +16,13 @@
 - مشخص کردن Work Packages
 
 فایل C3 شامل:
-
 - تخمین زمان
 - تخمین هزینه
 - نمودار شبکه فغالیت ها
 - بررسی Evm و اعداد و شاخص های آن
 
-  فایل gantt chart: نمودار گانت طراحی شده در MS Project
+فایل gantt chart: نمودار گانت طراحی شده در MS Project
+
 # لینک ها
 [برنامه ریزی در Trello](https://trello.com/b/n9r5Cy8Y)
 
